@@ -1,5 +1,5 @@
 # qr_generator.py
-import qrcod
+import qrcode
 
 def make_qr():
     text = input("🔗 متن یا لینک خود را وارد کنید: ")
